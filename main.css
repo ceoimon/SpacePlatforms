@@ -192,7 +192,7 @@ p {
 .container .intro {
   margin: 0;
   background-color: #252528;
-  background: url("/images/bg.png") no-repeat;
+  background: url("images/bg.png") no-repeat;
   background-size: cover;
   background-position: center;
   height: 881px;
@@ -341,7 +341,7 @@ p {
 .container .analytics .moreInfo .dl .dlButton {
   height: 40px;
   padding-left: 50px;
-  background: url("/images/dlIcon.svg") no-repeat;
+  background: url("images/dlIcon.svg") no-repeat;
   background-size: 40px 40px;
   display: inline-block;
 }
@@ -703,7 +703,7 @@ span.Software.loaded:before {
 
 .footer .slogan {
   padding-left: 35px;
-  background: url("/images/footerSP.svg") no-repeat;
+  background: url("images/footerSP.svg") no-repeat;
   background-size: 25px 25px;
 }
 
