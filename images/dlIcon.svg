@@ -1,0 +1,10 @@
+<svg version="1.1" id="svgIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 52 61" enable-background="new 0 0 52 61" xml:space="preserve">
+<path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" fill="#22DDBC" d="M4,0h44c2.2,0,4,1.8,4,4v53c0,2.2-1.8,4-4,4H4
+  c-2.2,0-4-1.8-4-4V4C0,1.8,1.8,0,4,0z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#252528" d="M26,13c9.4,0,17,7.6,17,17s-7.6,17-17,17c-9.4,0-17-7.6-17-17
+  S16.6,13,26,13z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#2DDCBC" d="M32.5,31.5c-0.4-0.4-1-0.4-1.4,0L27,35.6V21c0-0.6-0.4-1-1-1
+  c-0.6,0-1,0.4-1,1v14.6l-4.1-4.1c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4l5.7,5.7c0.2,0.2,0.6,0.3,0.9,0.3c0.3,0.1,0.6,0,0.9-0.3l5.7-5.7
+  C32.9,32.5,32.9,31.9,32.5,31.5z"/>
+</svg>
