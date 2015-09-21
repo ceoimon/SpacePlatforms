@@ -73,7 +73,7 @@ p {
   -webkit-transition: color .2s;
 }
 
-.nav .active a,.nav li:hover a {
+.nav .navList .active a,.nav li:hover a {
   color: #fff;
 }
 
